@@ -1,6 +1,8 @@
-from cs50 import get_int, get_char
-
-x = get_int("Hi: ")
-for i in range(x):
-    print(i + 1, " ", end="")
-print()
+name, age, black = "Eric", 22, True
+print(name)
+print(age)
+print(black)
+eric = onica = kat = 100
+print(onica, eric, kat)
+print("You are", age, "years old")
+num = 2024
